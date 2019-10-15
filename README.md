@@ -15,6 +15,8 @@ wwww.google.com
 Internal Link
 [Julien](../../../julien)
 
-Anchors:
+# Anchors in Markdown
 
-[creat an anchor](#anchors-in-markdown)
+[link to an anchor](#anchors-in-markdown)
+
+![image](cat.jpeg "wild cat") 
