@@ -29,3 +29,9 @@ Internal Link
 - [x] buy groceries
 - [ ] cook the lasagne
 - [x] eating
+
+# Table
+
+Real name | Alice | Bob | Carl |
+| ------- | ----- | --- | -----|
+| Nick Name | al | Spongbob | Johnson |
