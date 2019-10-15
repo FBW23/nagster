@@ -27,8 +27,9 @@ Internal Link
 
 # checkboxes
 - [x] buy groceries
-- [ ] cook the lasagne
+- [x] cook the lasagne
 - [x] eating
+- [x] pooping
 
 # Table
 
