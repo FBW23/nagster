@@ -20,3 +20,5 @@ Internal Link
 [link to an anchor](#anchors-in-markdown)
 
 ![image](images/cat.jpeg "wild cat") 
+
+:innocent:
