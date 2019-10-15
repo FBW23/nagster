@@ -36,4 +36,5 @@ Real name | Alice | Bob | Carl |
 | - | - | - | -|
 | Nick Name | al | Spongbob | Johnson |
 | Phone Numbers| 87979 | 789 | 8979 |
-| Home Town | Argentina | Brasil | Canada |
+| Home Town | Argentina | Brazil | Canada |
+| Flags | :argentina: | :brazil: | :canada: |
