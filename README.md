@@ -27,5 +27,5 @@ Internal Link
 
 # checkboxes
 - [x] buy groceries
-- [x] cook the lasagne
+- [ ] cook the lasagne
 - [x] eating
