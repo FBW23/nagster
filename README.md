@@ -15,6 +15,8 @@ wwww.google.com
 Internal Link
 [Julien](../../../julien)
 
+[Bendis](../../../bendis)
+
 # Anchors in Markdown
 
 [link to an anchor](#anchors-in-markdown)
@@ -22,3 +24,8 @@ Internal Link
 ![image](images/cat.jpeg "wild cat") 
 
 :innocent:
+
+# checkboxes
+- [x] buy groceries
+- [x] cook the lasagne
+- [x] eating
