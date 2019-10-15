@@ -19,4 +19,4 @@ Internal Link
 
 [link to an anchor](#anchors-in-markdown)
 
-![image](cat.jpeg "wild cat") 
+![image](images/cat.jpeg "wild cat") 
